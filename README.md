@@ -4,6 +4,8 @@
 
 </header>
 
+NOTE: This is all wildly out of date. I came back Nov 2026 to update the main list of ads because someone asked me to, but I don't have the patience to do the rest of the site. I'm using a fork because I lost this email.
+
 Hello. This webpage is a list of a whole bunch of user ads from royal road. It's unlikely to ever have every ad, but it should have most of them. It's useful authors doing research for designing their own ads, boosting my ego, and finding ads that you saw one time but didn't click on.
 <br>
 <br>
